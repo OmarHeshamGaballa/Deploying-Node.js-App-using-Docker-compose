@@ -39,4 +39,6 @@ web2
 ## Testing the app
 
 ![Capture](https://user-images.githubusercontent.com/122731503/221356699-abcb84e8-821f-4707-a47a-56045e712167.JPG)
+![cd](https://user-images.githubusercontent.com/122731503/221356752-de4059d5-a087-4324-99a9-0ad0d6449d04.JPG)
+
 
