@@ -1,9 +1,10 @@
 # Node.js-App-using-Docker-compose
 
-![d](https://user-images.githubusercontent.com/122731503/221356027-4a98b959-65d4-41fc-b329-eca700a98eb2.JPG)
 
 Description:
 Creating Application that count the number of visits on my web and adding +1 for any new visit 
+
+![d](https://user-images.githubusercontent.com/122731503/221356027-4a98b959-65d4-41fc-b329-eca700a98eb2.JPG)
 
 Requirements:
 Node.js: An open-source, cross-platform JavaScript runtime environment and library for running web applications outside the client's browser
