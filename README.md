@@ -1,8 +1,9 @@
-# Node.js-App-using-Docker-compose
+# Node.js-App-Using-Docker-Compose
 
 
 ## Description:
-Creating Application that count the number of visits on my web and adding +1 for any new visit 
+Creating Application that count the number of visits on my web and adding +1 for any new visit. When URL Request is sent to nginx Load Balancer through port 80 which will handle it and send it to web 1 or web2. After that, Code in server.js will be applied which will print Number of visits is: <num> 
+
 
 ![d](https://user-images.githubusercontent.com/122731503/221356027-4a98b959-65d4-41fc-b329-eca700a98eb2.JPG)
 
