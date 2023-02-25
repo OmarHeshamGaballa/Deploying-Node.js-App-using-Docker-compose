@@ -1,12 +1,12 @@
 # Node.js-App-using-Docker-compose
 
 
-### Description:
+## Description:
 Creating Application that count the number of visits on my web and adding +1 for any new visit 
 
 ![d](https://user-images.githubusercontent.com/122731503/221356027-4a98b959-65d4-41fc-b329-eca700a98eb2.JPG)
 
-### Requirements:
+## Requirements:
 
 Node.js: An open-source, cross-platform JavaScript runtime environment and library for running web applications outside the client's browser
 
@@ -16,7 +16,7 @@ Docker: A containerization platform for developing, shipping, and running applic
 
 Docker Compose: A tool for defining and running multi-container Docker applications.
 
-### Project structure:
+## Project structure:
 
 docker-compose.yml
 redis
@@ -32,8 +32,11 @@ web2
   package.json
   server.js
   
-### Perquisites:
+## Perquisites:
 
 -Install Docker on Linux, Mac or Windows
 
+## Testing the app
+
+![Capture](https://user-images.githubusercontent.com/122731503/221356699-abcb84e8-821f-4707-a47a-56045e712167.JPG)
 
