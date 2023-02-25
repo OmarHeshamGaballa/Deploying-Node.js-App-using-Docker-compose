@@ -2,15 +2,18 @@
 
 
 ### Description:
-Creating Application that count the number of visits on my web and adding +1 for any new visit
+Creating Application that count the number of visits on my web and adding +1 for any new visit 
 
 ![d](https://user-images.githubusercontent.com/122731503/221356027-4a98b959-65d4-41fc-b329-eca700a98eb2.JPG)
 
 ### Requirements:
 
 Node.js: An open-source, cross-platform JavaScript runtime environment and library for running web applications outside the client's browser
-Nginx: An open source software for web serving, reverse proxying, caching, load balancing and more
-Docker: a containerization platform for developing, shipping, and running applications.
+
+Nginx: An open source software for web serving, reverse proxying, caching, load balancing and more.
+
+Docker: A containerization platform for developing, shipping, and running applications.
+
 Docker Compose: A tool for defining and running multi-container Docker applications.
 
 ### Project structure:
