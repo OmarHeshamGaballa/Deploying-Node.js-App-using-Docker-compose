@@ -19,19 +19,7 @@ Docker Compose: A tool for defining and running multi-container Docker applicati
 
 ## Project structure:
 
-docker-compose.yml
-redis
-nginx
-  Dockerfile
-  nginx.conf
-web1
-  Dockerfile
-  package.json
-  server.js
-web2
-  Dockerfile
-  package.json
-  server.js
+![image](https://user-images.githubusercontent.com/122731503/222959420-c0595121-1e2a-4197-a028-eb8ade33662f.png)
   
 ## Perquisites:
 
